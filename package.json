@@ -2,7 +2,7 @@
   "name": "menues",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://flavio2990.github.io/ourmenue",
+  "homepage": "http://flavio2990.github.io/themenu",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@testing-library/jest-dom": "^5.16.5",
